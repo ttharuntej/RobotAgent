@@ -1,0 +1,21 @@
+20 20 250
+RXXXXXXXXXXXXXXXXBBB
+...........G........
+BXXXXXXXcCXBXXXXXBXX
+.XXXXXXXXXXX......XX
+B..........E...X..XX
+XXX..XXBXXXC...X..F.
+.XXXXXXXXXXX...X..X.
+B..............X..B.
+XXXXXXXXXXXC...X..XX
+....................
+XXXXX......XXXX....X
+....X......X.......X
+....X......X.......X
+XX..................
+XX.XXXXXXXXXXXXXBBBX
+XX.BXXXXX.....XXXBXX
+XX.XBXXXXXXXX...BBBX
+XXcX.C...........F..
+XXBBIXXXXXXXXXXXXXXX
+XX.BXXXXXXXXXXXXXXXX

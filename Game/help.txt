@@ -1,0 +1,45 @@
+****************************************************
+*						   *
+*	Welcome To Help Document.		   *
+*						   *
+****************************************************
+
+
+The Elements in the game represent the following.
+
+
+* 'R' for an Robot,
+* '@' for an Robot holding Bomb,
+* '.' for an empty cell,
+* 'X' for an obstacle or wall,
+* 'c' for a small candy,
+* 'C' for a big candy,
+* 'B' for a bomb,
+* '*' for a flying bomb,
+* 'E' for a random enemy,
+* 'F' for a sentinel enemy,
+* 'G' for a walking sentinel enemy,
+* 'H' for a player chaser enemy,
+* 'I' for a candy watcher enemy.
+* 'i' for an invisibility cloak,
+* '[1-9]' for warp zones.
+
+
+*******************************************************
+
+Game can by played in two modes namely Manual and Auto Mode.
+
+ When running in manual mode, the user can input the moves by typing:
+* 'l' to move left,
+* 'r' to move right,
+* 'u' to move up,
+* 'd' to move down.
+* 'w' to to wait at the same location,
+* 'g [lrud]' to grab a bomb located to the left (l), right (r), up (u) or down (d) of the robot's location,
+* 't [lrud]' to throw a bomb left (l), right (r), up (u) or down (d).
+
+*Warp zones allow the player to warp to another cell in the map. 
+*player robot takes the invisibility cloak, it is invisible for 10 time steps
+
+
+ 
